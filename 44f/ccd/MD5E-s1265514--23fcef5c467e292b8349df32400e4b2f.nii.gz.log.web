@@ -1,0 +1,10 @@
+1562919987.408379648s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/rfMRI_REST2_LR/123420_3T_BIAS_BC.nii.gz?versionId=yz8FSRqsxRsJ2mpqjkPm2oqeiaZ6jLLF
+1562920132.985529431s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/rfMRI_REST2_RL/123420_3T_BIAS_BC.nii.gz?versionId=78uXM60pwCWxBg3LtT.6gvfkKywmZZwl
+1562920254.737708746s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_EMOTION_LR/123420_3T_BIAS_BC.nii.gz?versionId=SSl6Vkj85_t7WUbk06Vn5GBqo6tYHWrX
+1562920278.460755118s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_EMOTION_RL/123420_3T_BIAS_BC.nii.gz?versionId=UYtjNlKRMqZIjxHg1VKHrfynQCr3M4LC
+1562920367.106243403s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_LANGUAGE_LR/123420_3T_BIAS_BC.nii.gz?versionId=Ix4br1yPOG5tb7Ipbgv7p96O5pVVqfiE
+1562920407.833167797s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_LANGUAGE_RL/123420_3T_BIAS_BC.nii.gz?versionId=cv1d_Ej6JGSVYH5Hgg1I3_70bOhskNLk
+1562920518.364589899s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_RELATIONAL_LR/123420_3T_BIAS_BC.nii.gz?versionId=6pXHJq.BESdYsRljkipEAUP5b.VW836l
+1562920549.096346206s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_RELATIONAL_RL/123420_3T_BIAS_BC.nii.gz?versionId=VG4_KwdFr3UVlBBGubvHS.1z9nlvoDY7
+1562920606.693636207s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_SOCIAL_LR/123420_3T_BIAS_BC.nii.gz?versionId=ONz0sD.bX74BFTClY3hkUG21E2Uoag7Z
+1562920640.261811725s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_SOCIAL_RL/123420_3T_BIAS_BC.nii.gz?versionId=GDeJF0ZSRH3aLu3cmAFW_vpDJ5hdtS2d

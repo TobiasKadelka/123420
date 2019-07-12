@@ -1,0 +1,8 @@
+1562919748.799519807s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/rfMRI_REST1_LR/123420_3T_BIAS_32CH.nii.gz?versionId=WlXIsIGG6R6HjGO5p1mL3Z7zNYqnSQiG
+1562919870.744004458s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/rfMRI_REST1_RL/123420_3T_BIAS_32CH.nii.gz?versionId=IlRdr4FYK9MghzCwS0C42JDmd.8OZd7y
+1562920302.032886968s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_GAMBLING_LR/123420_3T_BIAS_32CH.nii.gz?versionId=6nOteIrr.9nOxpEZ7ZWw4VX3gJOb_G.t
+1562920334.4596223s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_GAMBLING_RL/123420_3T_BIAS_32CH.nii.gz?versionId=joygmn0L6x6EVNr8wWeVHSYW7asFWWU0
+1562920447.453416092s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_MOTOR_LR/123420_3T_BIAS_32CH.nii.gz?versionId=1yobKdYYCixui6Pde_0HXEiFyTaAbO4j
+1562920482.87090394s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_MOTOR_RL/123420_3T_BIAS_32CH.nii.gz?versionId=6mvwDDtAvVtSuHAviMYsQoV.X5BgBHJy
+1562920684.823400023s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_WM_LR/123420_3T_BIAS_32CH.nii.gz?versionId=xrgbeWSKQ1mooQnrFE6U0UzXEn.iv2qV
+1562920738.027511231s 1 :s3://hcp-openaccess/HCP/123420/unprocessed/3T/tfMRI_WM_RL/123420_3T_BIAS_32CH.nii.gz?versionId=FNxeLKpw42OsWTrPoy4PCycXTRmhU4Xy
